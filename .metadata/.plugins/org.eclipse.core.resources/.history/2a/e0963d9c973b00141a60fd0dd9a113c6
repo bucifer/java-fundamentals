@@ -1,0 +1,14 @@
+
+public class ghost {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	static void te_replacer(String string) {
+		
+	}
+	
+	
+}
