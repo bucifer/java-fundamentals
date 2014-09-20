@@ -15,7 +15,11 @@ public class nthPower {
 		System.out.println(	power_calculator(2, 1)	);
 		
 		System.out.println(	power_calculator(200, 10)	);
+		System.out.println(	power_calculator(200, 30)	);
 
+		//the moral of the story is, if you go too big, even Long won't store beyond Trillion or something like that
+		
+		
 	}
 	
 	static long power_calculator(long base, long power) {
