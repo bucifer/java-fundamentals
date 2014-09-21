@@ -8,7 +8,7 @@ public class hash {
 		// TODO Auto-generated method stub
 		
 		
-		Dictionary dict = new Hashtable();
+		Map dict = new Hashtable();
 		dict.put("fruit", "apple");
 		dict.put("weapon", "lance");
 		dict.put("animal", "lion");
